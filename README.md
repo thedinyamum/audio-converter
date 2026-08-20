@@ -5,6 +5,8 @@ Convert Files between flac,mp3,m4a,ogg,opus,wav. Preserves Metadata and Embedded
 
 - FFMPEG
 - Python 3.10+
+- mutagen
+- tqdm
 
 ## How to use?
 
