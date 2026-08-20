@@ -8,6 +8,12 @@ Convert Files between flac,mp3,m4a,ogg,opus,wav. Preserves Metadata and Embedded
 - mutagen
 - tqdm
 
+## Installation
+
+- clone/download the repo
+- `pip install ffmpeg mutagen tqdm`
+- cd <YOUR_PATH_TO>/audio_converter
+
 ## How to use?
 
 - Open Terminal <sub><sub><sub>cancer</sub></sub></sub>
